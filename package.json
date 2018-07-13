@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "plotly.js": "1.38.3"
+    "plotly.js": "1.39.1"
   }
 }
