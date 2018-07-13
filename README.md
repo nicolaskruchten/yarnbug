@@ -1,4 +1,4 @@
-This repo exposes a very strange bug in `yarn` whereby some files in the module are not unpacked properly, specifically `src/core.js` which contains our version number.
+This repo exposes [a very strange bug in `yarn`](https://github.com/yarnpkg/yarn/issues/6101) whereby some files in the module are not unpacked properly, specifically `src/core.js` which contains our version number.
 
 To replicate:
 
